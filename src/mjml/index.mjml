@@ -43,70 +43,82 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>Votre support mural offert à l'achat d'un Système Mesh Orbi WiFi 6</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image src="./images/illustrationHeader.jpg" alt=""></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>Systèmes Mesh Orbi WiFi 6 AX6000</mj-text>
-        <mj-text>Si vous voulez le meilleur pour vous et votre famille et que vous recherchez la couverture WiFi la plus rapide qui soit, il est temps d'opter pour un système Mesh Orbi WiFi 6 AX6000.</mj-text>
-        <mj-text>Ne manquez pas notre offre du moment ! Pour l'achat d'un pack Orbi référencé ci-dessous, recevez un support mural pour chaque satellite. Ce support vous permettra de positionner votre Orbi de manière optimale, sans perdre d'espace sur votre console, étagère ou bureau.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image src="./images/rbk852.jpg" alt=""/>
-        <mj-text>Système Mesh Orbi WiFi 6 AX6000 </mj-text>
-        <mj-text>(RBK852) Jusqu'à 460m2</mj-text>
-        <mj-text>+ 1 support mural</mj-text>
-        <mj-text>819.99€ 799.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-image src="./images/rbk853.jpg" alt=""/>
-        <mj-text>Système Mesh Orbi WiFi 6 AX6000 </mj-text>
-        <mj-text>(RBK853) Jusqu'à 690m2</mj-text>
-        <mj-text>+ 2 supports muraux</mj-text>
-        <mj-text>1139.99€ 1069.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-image src="./images/illustrationProduits.jpg" alt=""/>
-      </mj-column>
-      <mj-column>
-        <mj-image src="./images/rbk854.jpg" alt=""/>
-        <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
-        <mj-text>(RBK854) Jusqu'à 920m2</mj-text>
-        <mj-text>+ 3 supports muraux</mj-text>
-        <mj-text>1609.99€ 1469.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-image src="./images/rbk855.jpg" alt=""/>
-        <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
-        <mj-text>(RBK855) Jusqu'à 1150m2</mj-text>
-        <mj-text>+ 4 supports muraux</mj-text>
-        <mj-text>2079.99€ 1829.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>... et bien plus encore sur le store Netgear</mj-text>
-        <mj-button>Découvrir</mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-text>* Offre valable sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS,RBK854WM-100EUS et RBK855WM-100EUS.</mj-text>
-        <mj-text>Offre valable jusqu'au 26 juillet inclus et dans la limite des stocks disponibles.</mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper>
+      <mj-section padding="0px" mj-class="bgB">
+        <mj-column>
+          <mj-text padding="0" align="center">Votre support mural offert à l'achat d'un Système Mesh Orbi WiFi 6</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px" mj-class="bgW">
+        <mj-column>
+          <mj-image padding="0" width="700px" src="./images/illustrationHeader.jpg" alt=""/>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text padding="0" align="center">Systèmes Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text padding="0" align="center">Si vous voulez le meilleur pour vous et votre famille et que vous recherchez la couverture WiFi la plus rapide qui soit, il est temps d'opter pour un système Mesh Orbi WiFi 6 AX6000.</mj-text>
+          <mj-text padding="0" align="center">Ne manquez pas notre offre du moment ! Pour l'achat d'un pack Orbi référencé ci-dessous, recevez un support mural pour chaque satellite. Ce support vous permettra de positionner votre Orbi de manière optimale, sans perdre d'espace sur votre console, étagère ou bureau.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper>
+      <mj-section>
+        <mj-column>
+          <mj-image src="./images/rbk852.jpg" alt=""/>
+          <mj-text>Système Mesh Orbi WiFi 6 AX6000 </mj-text>
+          <mj-text>(RBK852) Jusqu'à 460m2</mj-text>
+          <mj-text>+ 1 support mural</mj-text>
+          <mj-text>819.99€ 799.99€</mj-text>
+          <mj-button>J'en profite</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image src="./images/rbk853.jpg" alt=""/>
+          <mj-text>Système Mesh Orbi WiFi 6 AX6000 </mj-text>
+          <mj-text>(RBK853) Jusqu'à 690m2</mj-text>
+          <mj-text>+ 2 supports muraux</mj-text>
+          <mj-text>1139.99€ 1069.99€</mj-text>
+          <mj-button>J'en profite</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image src="./images/illustrationProduits.jpg" alt=""/>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image src="./images/rbk854.jpg" alt=""/>
+          <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text>(RBK854) Jusqu'à 920m2</mj-text>
+          <mj-text>+ 3 supports muraux</mj-text>
+          <mj-text>1609.99€ 1469.99€</mj-text>
+          <mj-button>J'en profite</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image src="./images/rbk855.jpg" alt=""/>
+          <mj-text>Système Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text>(RBK855) Jusqu'à 1150m2</mj-text>
+          <mj-text>+ 4 supports muraux</mj-text>
+          <mj-text>2079.99€ 1829.99€</mj-text>
+          <mj-button>J'en profite</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper>
+      <mj-section>
+        <mj-column>
+          <mj-text>... et bien plus encore sur le store Netgear</mj-text>
+          <mj-button>Découvrir</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>* Offre valable sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS,RBK854WM-100EUS et RBK855WM-100EUS.</mj-text>
+          <mj-text>Offre valable jusqu'au 26 juillet inclus et dans la limite des stocks disponibles.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
     <mj-wrapper>
       <mj-section>
         <mj-column>
