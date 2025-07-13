@@ -128,7 +128,7 @@
           <mj-spacer height="20px"></mj-spacer>
         </mj-column>
         <mj-column>
-          <mj-social>
+          <mj-social padding="0" mode="horizontal">
             <mj-social-element src="./images/facebookIcon.png" href="https://www.facebook.com/NetgearFrance"></mj-social-element>
             <mj-social-element src="./images/twitterIcon.png" href="https://twitter.com/NetgearFrance"></mj-social-element>
             <mj-social-element src="./images/instagramIcon.png" href="https://www.instagram.com/netgearfrance/"></mj-social-element>
