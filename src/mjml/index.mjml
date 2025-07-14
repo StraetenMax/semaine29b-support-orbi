@@ -62,57 +62,57 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper>
+    <mj-wrapper mj-class="bgW">
       <mj-section>
-        <mj-column>
-          <mj-image padding="0" align="center" src="./images/rbk852.jpg" alt=""/>
-          <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-          <mj-text padding="0" align="center">(RBK852) Jusqu'à 460m2</mj-text>
-          <mj-text padding="0" align="center">+ 1 support mural</mj-text>
-          <mj-text padding="0" align="center">819.99€ 799.99€</mj-text>
+        <mj-column padding="10px">
+          <mj-image padding="0" align="center" width="275px" src="./images/rbk852.jpg" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK852) <strong>Jusqu'à 460m2</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><strong>+ 1 support mural</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><span style="color:#ff0000;text-decoration-line:line-through;">819.99€</span> <strong style="color:#00A1DE">799.99€</strong></mj-text>
           <mj-button mj-class="bgB">J'en profite</mj-button>
         </mj-column>
         <mj-column>
-          <mj-image padding="0" align="center" src="./images/rbk853.jpg" alt=""/>
-          <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-          <mj-text padding="0" align="center">(RBK853) Jusqu'à 690m2</mj-text>
-          <mj-text padding="0" align="center">+ 2 supports muraux</mj-text>
-          <mj-text padding="0" align="center">1139.99€ 1069.99€</mj-text>
+          <mj-image padding="0" align="center" width="275px" src="./images/rbk853.jpg" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK853) <strong>Jusqu'à 690m2</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><strong>+ 2 supports muraux</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><span style="color:#ff0000;text-decoration-line:line-through;">1139.99€</span> <strong style="color:#00A1DE">1069.99€</strong></mj-text>
           <mj-button mj-class="bgB">J'en profite</mj-button>
         </mj-column>
       </mj-section>
-      <mj-section padding="0px" mj-class="bgW">
+      <mj-section padding="0px">
         <mj-column>
           <mj-image padding="0" width="700px" src="./images/illustrationProduits.jpg" alt=""/>
         </mj-column>
       </mj-section>
       <mj-section padding="0px" mj-class="bgW">
         <mj-column>
-          <mj-image padding="0" align="center" src="./images/rbk854.jpg" alt=""/>
-          <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-          <mj-text padding="0" align="center">(RBK854) Jusqu'à 920m2</mj-text>
-          <mj-text padding="0" align="center">+ 3 supports muraux</mj-text>
-          <mj-text padding="0" align="center">1609.99€ 1469.99€</mj-text>
+          <mj-image padding="0" align="center" width="275px" src="./images/rbk854.jpg" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK854) <strong>Jusqu'à 920m2</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><strong>+ 3 supports muraux</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><span style="color:#ff0000;text-decoration-line:line-through;">1609.99€</span> <strong style="color:#00A1DE">1469.99€</strong></mj-text>
           <mj-button mj-class="bgB">J'en profite</mj-button>
         </mj-column>
         <mj-column>
-          <mj-image padding="0" align="center" src="./images/rbk855.jpg" alt=""/>
-          <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-          <mj-text padding="0" align="center">(RBK855) Jusqu'à 1150m2</mj-text>
-          <mj-text padding="0" align="center">+ 4 supports muraux</mj-text>
-          <mj-text padding="0" align="center">2079.99€ 1829.99€</mj-text>
+          <mj-image padding="0" align="center" width="275px" src="./images/rbk855.jpg" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK855) <strong>Jusqu'à 1150m2</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><strong>+ 4 supports muraux</strong></mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1"><span style="color:#ff0000;text-decoration-line:line-through;">2079.99€</span> <strong style="color:#00A1DE">1829.99€</strong></mj-text>
           <mj-button mj-class="bgB">J'en profite</mj-button>
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper>
+    <mj-wrapper mj-class="bgW">
       <mj-section padding="0px" mj-class="bgT1">
         <mj-column>
           <mj-text padding="0" align="center" mj-class="cTW">... et bien plus encore sur le store Netgear</mj-text>
           <mj-button mj-class="bgW cT1">Découvrir</mj-button>
         </mj-column>
       </mj-section>
-      <mj-section padding="0px" mj-class="bgW">
+      <mj-section padding="0px">
         <mj-column>
           <mj-text padding="0" align="center">* Offre valable sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS,RBK854WM-100EUS et RBK855WM-100EUS.</mj-text>
           <mj-text padding="0" align="center">Offre valable jusqu'au 26 juillet inclus et dans la limite des stocks disponibles.</mj-text>
