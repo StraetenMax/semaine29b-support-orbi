@@ -14,7 +14,7 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
-      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
+      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="50px" font-weight="300"/>
       <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T15-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="400"/>
@@ -46,7 +46,7 @@
     <mj-wrapper>
       <mj-section padding="0px" mj-class="bgB">
         <mj-column>
-          <mj-text padding="0" align="center">Votre support mural offert à l'achat d'un Système Mesh Orbi WiFi 6</mj-text>
+          <mj-text padding="0" align="center" mj-class="T35-300 cTW" letter-spacing="2px">Votre support mural offert à l'achat d'un Système Mesh Orbi WiFi 6</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0px" mj-class="bgW">
@@ -56,9 +56,9 @@
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-text padding="0" align="center">Systèmes Mesh Orbi WiFi 6 AX6000</mj-text>
-          <mj-text padding="0" align="center">Si vous voulez le meilleur pour vous et votre famille et que vous recherchez la couverture WiFi la plus rapide qui soit, il est temps d'opter pour un système Mesh Orbi WiFi 6 AX6000.</mj-text>
-          <mj-text padding="0" align="center">Ne manquez pas notre offre du moment ! Pour l'achat d'un pack Orbi référencé ci-dessous, recevez un support mural pour chaque satellite. Ce support vous permettra de positionner votre Orbi de manière optimale, sans perdre d'espace sur votre console, étagère ou bureau.</mj-text>
+          <mj-text padding="0" align="center" mj-class="T26-500 cB" letter-spacing="1px">Systèmes Mesh Orbi WiFi 6 AX6000</mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Si vous voulez le meilleur pour vous et votre famille et que vous recherchez la couverture WiFi la plus rapide qui soit, il est temps d'opter pour un système Mesh Orbi WiFi 6 AX6000.</mj-text>
+          <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Ne manquez pas notre offre du moment ! Pour l'achat d'un pack Orbi référencé ci-dessous, recevez un support mural pour chaque satellite. Ce support vous permettra de positionner votre Orbi de manière optimale, sans perdre d'espace sur votre console, étagère ou bureau.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
