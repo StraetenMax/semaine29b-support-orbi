@@ -15,10 +15,12 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="50px" font-weight="300"/>
+      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
       <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T15-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="400"/>
       <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
+      <mj-class name="T11-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
       <mj-class name="T9-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="9px" line-height="10px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
@@ -108,14 +110,14 @@
     <mj-wrapper mj-class="bgW">
       <mj-section padding="0px" mj-class="bgT1">
         <mj-column>
-          <mj-text padding="0" align="center" mj-class="cTW">... et bien plus encore sur le store Netgear</mj-text>
+          <mj-text padding="0" align="center" mj-class="T30-500 cTW">... et bien plus encore sur le store Netgear</mj-text>
           <mj-button mj-class="bgW cT1">Découvrir</mj-button>
         </mj-column>
       </mj-section>
       <mj-section padding="0px">
         <mj-column>
-          <mj-text padding="0" align="center">* Offre valable sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS,RBK854WM-100EUS et RBK855WM-100EUS.</mj-text>
-          <mj-text padding="0" align="center">Offre valable jusqu'au 26 juillet inclus et dans la limite des stocks disponibles.</mj-text>
+          <mj-text padding="0" align="center" mj-class="T11-400 cT1">* Offre valable sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS,RBK854WM-100EUS et RBK855WM-100EUS.</mj-text>
+          <mj-text padding="0" align="center" mj-class="T11-400 cT1">Offre valable jusqu'au 26 juillet inclus et dans la limite des stocks disponibles.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
