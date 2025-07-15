@@ -115,14 +115,15 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper mj-class="bgW">
-      <mj-section padding="0px" mj-class="bgT1">
+    <mj-wrapper padding="0" mj-class="bgW">
+      <mj-section padding="15px" padding-bottom="25px" mj-class="bgT1">
         <mj-column>
           <mj-text padding="0" align="center" mj-class="T30-500 cTW">... et bien plus encore sur le store Netgear</mj-text>
+          <mj-spacer height="40px"></mj-spacer>
           <mj-button mj-class="bgW cT1">Découvrir</mj-button>
         </mj-column>
       </mj-section>
-      <mj-section padding="0px">
+      <mj-section padding="14px" padding-bottom="30px">
         <mj-column>
           <mj-text padding="0" align="center" mj-class="T11-400 cT1">* Offre valable sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS,RBK854WM-100EUS et RBK855WM-100EUS.</mj-text>
           <mj-text padding="0" align="center" mj-class="T11-400 cT1">Offre valable jusqu'au 26 juillet inclus et dans la limite des stocks disponibles.</mj-text>
